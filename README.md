@@ -12,7 +12,7 @@ When installing a new Windows you can follow this checklist to set up your windo
 | --------- | ---------------------------- | ------------------------- |
 | Discord   | Messaging platform           | https://discord.com/      |
 | Slack     | Corporate messaging platform | https://slack.com/        |
-| Em Client | Good email                   | https://www.emclient.com/ |
+| Outlook | Email client                   | https://outlook.live.com/mail/0/ |
 | WhatsApp  | Messaging platform           | https://www.whatsapp.com/ |
 
 ### Tools
@@ -28,6 +28,7 @@ When installing a new Windows you can follow this checklist to set up your windo
 | Brave                 | 'private' chromium browser                                    | https://brave.com/                                            |
 | Flow Launcher         | File search / app launcher                                    | https://www.flowlauncher.com/                                 |
 | Obsidian              | Note taking app                                               | https://obsidian.md/                                          |
+| RamBox                | Multiple apps hub                                             | https://rambox.app/                                           |
 
 ### Development
 
